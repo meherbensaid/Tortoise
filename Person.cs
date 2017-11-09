@@ -1,1 +1,3 @@
-public class Person{}Person
+public class Person{
+	public int Age { get; set;}
+}Person
