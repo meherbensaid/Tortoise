@@ -1,1 +1,1 @@
-Person
+public class Person{}Person
