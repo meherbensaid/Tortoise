@@ -1,3 +1,4 @@
 public class Person{
 	public int Age { get; set;}
-}Person
+	public string Name { get; set; }
+	}Person
